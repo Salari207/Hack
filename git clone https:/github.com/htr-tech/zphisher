@@ -6,3 +6,6 @@ root@kali:/home/iicybersecurity# git clone https://github.com/htr-tech/zphisher
  remote: Total 873 (delta 17), reused 2 (delta 0), pack-reused 834
  Receiving objects: 100% (873/873), 9.69 MiB | 1.28 MiB/s, done.
  Resolving deltas: 100% (346/346), done. 
+ root@kali:~# cd zphisher 
+ chmod +x zphisher.sh 
+ bash zphisher.sh
